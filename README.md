@@ -130,3 +130,118 @@ I am particularly interested in technologies that drive the future of **mobility
 </div>
 
 ---
+
+# 🚀 Featured Projects
+
+<details open>
+<summary>
+
+## 🛡️ CloudGuardian AI
+
+**Cloud-Native Security Platform**
+
+</summary>
+
+CloudGuardian AI is a cloud-native security platform developed to analyze Kubernetes and AWS environments, helping identify security risks, excessive permissions, and cloud misconfigurations.
+
+| Category | Details |
+|-----------|---------|
+| **Language** | Python |
+| **Cloud** | AWS |
+| **Container** | Docker |
+| **Orchestration** | Kubernetes |
+| **Security** | RBAC Analysis |
+| **Status** | Active Development |
+
+### ✨ Features
+
+- Kubernetes Cluster Scanning
+- RBAC Permission Analysis
+- Privileged Container Detection
+- Container Image Inspection
+- Automated Risk Scoring
+- Security Report Generation
+
+### 🎯 Goal
+
+Build an intelligent cloud security platform capable of detecting vulnerabilities and improving Kubernetes security posture.
+
+### 🔗 Repository
+
+➡️ https://github.com/eyaa5/CloudGuardian-AI
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🤖 CyberShield AI
+
+**AI-powered AWS Security Platform**
+
+</summary>
+
+CyberShield AI is an ongoing project focused on detecting cloud security threats using AWS services, CloudTrail logs, and machine learning techniques.
+
+| Category | Details |
+|-----------|---------|
+| **Language** | Python |
+| **Cloud** | AWS |
+| **AI** | Machine Learning |
+| **Security** | Cloud Monitoring |
+| **Status** | In Progress |
+
+### ✨ Features
+
+- CloudTrail Log Analysis
+- Threat Detection
+- Security Event Monitoring
+- Automated Alerts
+- Anomaly Detection Research
+
+### 🎯 Goal
+
+Create an intelligent cloud monitoring platform capable of identifying abnormal cloud activities and supporting proactive security.
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🏋️ Fitness Studio Management System
+
+**Spring Boot Web Application**
+
+</summary>
+
+A university team project focused on developing a web-based application for managing fitness studio operations using modern Java technologies.
+
+| Category | Details |
+|-----------|---------|
+| **Language** | Java |
+| **Backend** | Spring Boot |
+| **Frontend** | Thymeleaf |
+| **Version Control** | Git/GitHub |
+| **Status** | Completed |
+
+### ✨ Features
+
+- Member Management
+- Booking Management
+- Team Collaboration
+- Backend Development
+- Spring Boot Architecture
+
+### 🎯 Goal
+
+Gain practical experience in collaborative software engineering and backend web development.
+
+</details>
+
+---
