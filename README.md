@@ -106,3 +106,27 @@ I enjoy transforming ideas into reliable software solutions, continuously learni
 I am particularly interested in technologies that drive the future of **mobility**, **cloud computing**, and **digital innovation**.
 
 ---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css&theme=dark"/>
+
+### Frameworks & Backend
+
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs&theme=dark"/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark"/>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=sqlite,firebase,git,github,maven,linux,vscode&theme=dark"/>
+
+</div>
+
+---
