@@ -5,3 +5,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=25&duration=2800&pause=700&color=60A5FA&center=true&vCenter=true&width=950&lines=Future+Software+Engineer;Java+%7C+Python+%7C+AWS+%7C+Kubernetes;Passionate+About+Coding+%26+IT+Security;Building+Real-World+Software+Solutions;Interested+in+Technology+%26+Mobility" />
 </p>
+
+<p align="center">
+
+<a href="mailto:farhateya59@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-2563eb?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/eyaa5">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/eyaa5?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Portfolio-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
