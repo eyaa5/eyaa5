@@ -47,3 +47,47 @@
 </p>
 
 ---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+```java
+public class EyaFarhat {
+
+    String role = "Future Software Engineer";
+
+    String[] interests = {
+        "Software Engineering",
+        "Programming",
+        "Cloud Computing",
+        "IT Security",
+        "Technology & Mobility"
+    };
+
+    String[] languages = {
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "C"
+    };
+
+    String currentFocus =
+        "Building software solutions and continuously improving my programming skills.";
+
+    String goal =
+        "To contribute to innovative technologies that shape the future of mobility.";
+
+}
+```
+
+---
+
+I am passionate about **software engineering**, **programming**, and solving real-world problems through technology.
+
+Currently, I am expanding my knowledge in **Java**, **Python**, **AWS Cloud**, **Kubernetes**, and **IT Security**, while building practical projects that strengthen my software engineering skills.
+
+I enjoy transforming ideas into reliable software solutions, continuously learning new technologies, and collaborating on projects that create meaningful impact.
+
+I am particularly interested in technologies that drive the future of **mobility**, **cloud computing**, and **digital innovation**.
+
+---
