@@ -87,7 +87,7 @@ String[] cloud = {
 };
 
     String currentFocus =
-        "Building software solutions and continuously improving my programming skills.";
+    "Building scalable software projects while strengthening my cloud, backend, and software engineering skills.";
 
     String goal =
         "To contribute to innovative technologies that shape the future of mobility.";
