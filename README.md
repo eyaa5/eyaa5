@@ -90,7 +90,7 @@ String[] cloud = {
     "Building scalable software projects while strengthening my cloud, backend, and software engineering skills.";
 
     String goal =
-        "To contribute to innovative technologies that shape the future of mobility.";
+    "To design reliable software solutions that contribute to the future of technology and mobility.";
 
 }
 ```
