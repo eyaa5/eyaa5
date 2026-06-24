@@ -182,6 +182,8 @@ Build an intelligent cloud security platform capable of detecting vulnerabilitie
 
 ## 🤖 CyberShield AI
 
+> **AI-powered Cloud Security & Threat Detection**
+
 **AI-powered AWS Security Platform**
 
 </summary>
@@ -217,6 +219,8 @@ Create an intelligent cloud monitoring platform capable of identifying abnormal 
 <summary>
 
 ## 🏋️ Fitness Studio Management System
+
+> **Full-Stack Java Web Application**
 
 **Spring Boot Web Application**
 
