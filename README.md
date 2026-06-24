@@ -138,6 +138,8 @@ I am particularly interested in technologies that drive the future of **mobility
 
 ## 🛡️ CloudGuardian AI
 
+> **Cloud-Native Security Platform for Kubernetes & AWS**
+
 **Cloud-Native Security Platform**
 
 </summary>
