@@ -63,13 +63,28 @@ public class EyaFarhat {
         "Technology & Mobility"
     };
 
-    String[] languages = {
-        "Java",
-        "Python",
-        "JavaScript",
-        "SQL",
-        "C"
-    };
+   String[] programmingLanguages = {
+    "Java",
+    "Python",
+    "JavaScript",
+    "SQL",
+    "C"
+};
+
+String[] webTechnologies = {
+    "HTML5",
+    "CSS3",
+    "Spring Boot",
+    "React",
+    "Node.js",
+    "REST APIs"
+};
+
+String[] cloud = {
+    "AWS",
+    "Docker",
+    "Kubernetes"
+};
 
     String currentFocus =
         "Building software solutions and continuously improving my programming skills.";
