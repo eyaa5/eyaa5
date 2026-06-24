@@ -136,11 +136,24 @@ I am particularly interested in technologies that drive the future of **mobility
 <details open>
 <summary>
 
+<details open>
+<summary>
+
 ## 🛡️ CloudGuardian AI
 
 > **Cloud-Native Security Platform for Kubernetes & AWS**
 
-**Cloud-Native Security Platform**
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+</p>
 
 </summary>
 
@@ -170,13 +183,9 @@ Build an intelligent cloud security platform capable of detecting vulnerabilitie
 
 ### 🔗 Repository
 
-➡️ https://github.com/eyaa5/CloudGuardian-AI
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/eyaa5/CloudGuardian-AI)
 
 </details>
-
----
-
-<details>
 
 <summary>
 
