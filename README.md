@@ -21,3 +21,29 @@
 </a>
 
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Baccalauréat-Informatics-1D4ED8?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Future-Software%20Engineer-312E81?style=for-the-badge&logo=codecrafters&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Wolfsburg%2C%20Germany-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="mailto:farhateya59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/eyaa5">
+    <img src="https://img.shields.io/badge/GitHub-Profile-020617?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/eyaa5?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eyaa5&style=flat-square&color=2563eb&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/eyaa5?style=flat-square&color=4f46e5&label=Followers" />
+  <img src="https://img.shields.io/github/stars/eyaa5?style=flat-square&color=7c3aed&label=Stars" />
+</p>
+
+---
